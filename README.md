@@ -2,19 +2,19 @@
   <img src="./images/github/preview.png" width="100%" />
 </p>
 
-# ⚔ Jogo da Velha 🛡
-Projeto do curso ProgramadorBR em que aprendi a desenvolver a lógica por trás do jogo da velha. Projeto simples mas bem legal de fazer, pretendo fazer uma versão melhorada e atualizada no futuro com React.
+# 🧩 Jogo da Memória
+Projeto do curso ProgramadorBR em que aprendi a desenvolver a lógica por trás do jogo da memória.
 
 ## ⚙️ Funcionalidades
 
-- [x] Estilizações global, comun e individuais;
-- [x] Importação de fontes Google;
-- [x] Paginação de posts;
-- [x] Cálculo de tempo estimado de leitura do post;
-- [x] Geração de páginas estáticas com os métodos `getStaticProps` e `getStaticPaths`;
-- [x] Formatação de datas com `date-fns`;
-- [x] Uso de ícones com `react-icons`;
-- [x] Requisições HTTP com `fetch`;
+- [x] Cria um tabuleiro de jogo com cartas viradas para baixo;
+- [x] Distribui aleatoriamente as cartas no tabuleiro em cada novo jogo;
+- [x] Adiciona a funcionalidade para virar as cartas ao clicar nelas;
+- [x] Ocorre um pequena animação suave ao virar as cartas;
+- [x] Verifica se as duas cartas viradas são iguais;
+- [x] Mantem as cartas viradas se forem iguais, ou virá elas de volta se não forem;
+- [x] Verifica se todas as cartas foram correspondidas para determinar o fim do jogo;
+- [x] Ao Final aparece um botão para reiniciar o jogo;
 
 ## 🚀 Tecnologias
 
@@ -23,4 +23,5 @@ Projeto do curso ProgramadorBR em que aprendi a desenvolver a lógica por trás 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 📝 Considerações
-Em breve irei refazer esse projeto com melhorias e com as funcionalidades completas.
+Eu atualizei esse mesmo projeto para React, utilizando Classes.
+[Ver Atualização](https://github.com/Victtor-777/Memory-Game-React)
