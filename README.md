@@ -1,5 +1,5 @@
 <p>
-  <img src="./img/preview.png" width="100%" />
+  <img src="./images/github/preview.png" width="100%" />
 </p>
 
 # ⚔ Jogo da Velha 🛡
